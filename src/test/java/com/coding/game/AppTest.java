@@ -2,6 +2,8 @@ package com.coding.game;
 
 import static org.junit.Assert.assertEquals;
 
+import com.coding.game.fibonacci.Fibonacci;
+
 import org.junit.Test;
 
 /**

@@ -1,4 +1,4 @@
-package com.coding.game;
+package com.coding.game.fibonacci;
 
 /**
  * Fibonacci
