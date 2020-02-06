@@ -1,4 +1,7 @@
 .classpath
+.idea
+.vscode
 .project
 .settings/
 target/
+coding-game.iml
