@@ -5,19 +5,21 @@ package com.coding.game.reverse;
  */
 public class StringReverse {
 
-    public static String reverse(String text) {
-        if(text == null){
+    public static String reverse(String input) {
+        if (input == null) {
             return "";
         }
-        char[] tChar = text.toCharArray();
-        int n = tChar.length-1;
-        char temp ;
-        for(int i = 0; i <= n/2; i++){
-            temp = tChar[i];
-            tChar[i] = tChar[n-i];
-            tChar[n-i] = temp;
+        char[] array = input.toCharArray();
+        final int halfLength = array.length / 2;
+        int idx2;
+        char clipboard;
+        for (int idx1 = 0; idx1 < halfLength; idx1++) {
+            idx2 = array.length - 1 - idx1;
+            clipboard = array[idx1];
+            array[idx1] = array[idx2];
+            array[idx2] = clipboard;
         }
-        return String.valueOf(tChar);
+        return String.valueOf(array);
     }
-    
+
 }
