@@ -46,7 +46,10 @@ public class Change {
         if(rest % 2 == 0){
             c.coin2 = rest / 2 ;
         }
+
+        // For debug purpose only
         System.out.println(c.toString() + " => "+amount);
+
         return c.sum();
     }
 
