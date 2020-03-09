@@ -1,13 +1,13 @@
 # java-interview-coding-tasks
 This repository is for my Java Coding interview tasks
 
-## Reverse a String
+## Reverse a String [voir ici](https://github.com/haroldlenoble/java-interview-coding-tasks/blob/master/src/main/java/com/coding/game/reverse/StringReverse.java)
 
-## Finbonacci
+## Finbonacci [voir ici](https://github.com/haroldlenoble/java-interview-coding-tasks/blob/master/src/main/java/com/coding/game/fibonacci/Fibonacci.java)
 
-## Shorting algorithms
+## Shorting algorithms [voir ici](https://github.com/haroldlenoble/java-interview-coding-tasks/blob/master/src/main/java/com/coding/game/shorting/BubbleShorting.java)
 
-## Java Stack
+## Java Stack [voir ici](https://github.com/haroldlenoble/java-interview-coding-tasks/blob/master/src/main/java/com/coding/game/javastack/JavaStack.java)
 
 ## Rendu monnaie  [voir ici](https://github.com/haroldlenoble/java-interview-coding-tasks/blob/master/src/main/java/com/coding/game/change/Change.java)
 Une des problématiques rencontrées avec le paiement en espèces est le rendu de monnaie : comment rendre une somme donnée de façon optimale, c’est-à-dire avec le nombre minimal de pièces et billets ? 
