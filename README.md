@@ -15,3 +15,14 @@ C’est un problème qui se pose à chacun de nous quotidiennement, à fortiori 
 
 Dans cet exercice, on vous demande d’essayer de trouver une solution optimale pour rendre la monnaie dans un cas précis : 
 quand une caisse automatique ne contient que des pièces de 2€, des billets de 5€ et de 10€.
+
+## FizzBuzz
+Ecrire un programme qui retourne les entiers de 1 à 100.
+A prendre en compte:
+Pour les multiples de 3, remplacez le nombre par "Fizz".
+Pour les multiples de 5, remplacez le nombre par "Buzz".
+Un nombre multiple de 15, remplacez le nombre par "FizzBuzz".
+
+Exemple:
+12Fizz4BuzzFizz78FizzBuzz......Buzz
+
